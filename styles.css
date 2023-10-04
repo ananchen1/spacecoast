@@ -1,0 +1,65 @@
+.img-home {
+    width: auto;
+    height: auto;
+    object-fit: cover;
+}
+.img-logo {
+    width: 70px;
+    background-color: transparent;
+    height: auto;
+    display: inline-block;
+    position: relative;
+}
+.body {
+    width: auto;
+    height: auto;
+}
+.title{
+    font-size: 30px;
+    font-family: Consolas;
+    line-height: 1.1em;
+    color: rgb(31, 37, 110);
+    margin-left: 10px;
+    margin-right: 10px;
+    white-space: nowrap;
+}
+.top {
+    width: auto;
+    height: auto;
+    font-family: "Arial Narrow";
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.menu-link {
+    width: 100%;
+    font-size: 20px;
+    margin-right:10px;
+    font-family: Consolas;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #243678;
+    text-decoration: none;
+    color: white
+}
+.menu {
+    margin-left:10px;
+    margin-right:10px
+}
+.content {
+    width: auto;
+    height: auto;
+    font-family: Arial;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.contentlefttext {
+    width: auto;
+    height: auto;
+    font-family: Arial;
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
